@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Editor",
+  "description": "An application that allows users to upload a folder of code, view the file structure, edit files, and use an AI assistant to refactor or modify the code. Users can then download the modified project as a zip file.",
+  "requestFramePermissions": []
+}
